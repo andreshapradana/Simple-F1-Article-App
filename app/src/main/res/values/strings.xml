@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MySimpleApp</string>
+    <string name="article_name">Judul Artikel</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="detail">Detail Page</string>
+    <string name="about_name">Andre</string>
+    <string name="about_email">andresha.pradana@gmail.com</string>
+    <string name="button_back">Back</string>
+    <string-array name="data_name">
+        <item>Max Verstappen wins season opener</item>
+        <item>Lando Norris grabs maiden pole</item>
+        <item>Lewis Hamilton gets his pole number 103</item>
+        <item>Sebastian Vettel\'s last race</item>
+        <item>Oscar Piastri: Sensational Rookie</item>
+        <item>Sergio Perez\'s seat in trouble</item>
+        <item>Leclerc gets million dollars extension</item>
+        <item>Carlos Sainz gets his first win</item>
+        <item>George Russell surprises with Williams</item>
+        <item>Fernando Alonso as Aston savior</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>In a gripping start to the Formula 1 season, Max Verstappen showcased his prowess by clinching victory in the season opener, setting the stage for an electrifying championship battle ahead.</item>
+        <item>Lando Norris made history as he secured his first-ever pole position, marking a breakthrough moment in his career and hinting at a promising future in Formula 1.</item>
+        <item>Lewis Hamilton added another milestone to his illustrious career by clinching his 103rd pole position, reaffirming his dominance and excellence in Formula 1 qualifying sessions.</item>
+        <item>The Formula 1 community bid farewell to Sebastian Vettel as he participated in his last race, marking the end of an era for the four-time world champion and leaving fans with a host of memorable racing moments.</item>
+        <item>Oscar Piastri emerged as a sensational rookie, making waves in the Formula 1 scene with remarkable performances that showcased his talent and potential for a successful career in the sport.</item>
+        <item>Speculation arose over Sergio Perez\'s future in Formula 1 as rumors swirled about his seat being in jeopardy, adding intrigue to the off-track dynamics and team developments.</item>
+        <item>Charles Leclerc secured a lucrative contract extension, earning a million-dollar deal that reflected his exceptional skills and affirmed his pivotal role in the team\'s future plans.</item>
+        <item>Carlos Sainz celebrated a monumental achievement as he secured his first Formula 1 win, marking a triumphant moment in his career and adding another layer to the competitive landscape.</item>
+        <item>George Russell surprised the Formula 1 community with standout performances driving for Williams, proving that talent transcends team capabilities and positioning himself as a future contender.</item>
+        <item>Fernando Alonso took on a pivotal role as the savior for Aston Martin, injecting experience and expertise into the team, with fans eagerly anticipating the impact of the seasoned driver on the squad\'s performance.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://www.gulftoday.ae/-/media/gulf-today/images/articles/sport/2024/3/2/verstappen-wins-bahrain-gp-750x450.ashx?h=450&amp;iar=0&amp;w=750&amp;hash=326F725D23BC1C831789F9805DD0F722</item>
+        <item>https://www.lequipe.fr/_medias/img-photo-jpg/lando-norris-s-elancera-devant-carlos-sainz-et-george-russell-y-kochetkov-reuters/1500000001547329/0:0,1998:1332-828-552-75/81e57.jpg</item>
+        <item>https://th.bing.com/th/id/OIP.lhR2gAvzQt1Z80IeK6b1XwHaEK?rs=1&amp;pid=ImgDetMain</item>
+        <item>https://cloudfront-us-east-2.images.arcpublishing.com/reuters/O2Q7N5NEFBNVPGZYCHPTLDF52U.jpg</item>
+        <item>https://th.bing.com/th/id/OIP.XNkQzFW0K2SfoTUPzRi3MQHaEK?rs=1&amp;pid=ImgDetMain</item>
+        <item>https://th.bing.com/th/id/OIP.y032HqmnojA852lVw-FWwwHaE7?rs=1&amp;pid=ImgDetMain</item>
+        <item>https://th.bing.com/th/id/OIP.1G9nw34ZHcU0lqFEuMkEWAHaE6?rs=1&amp;pid=ImgDetMain</item>
+        <item>https://th.bing.com/th/id/OIP.4SHfZ83uiS6aQpmPM_1sHAHaE8?rs=1&amp;pid=ImgDetMain</item>
+        <item>https://th.bing.com/th/id/OIP.jqUOpSn4z9XGQzv-vMB6UAHaLG?rs=1&amp;pid=ImgDetMain</item>
+        <item>https://th.bing.com/th/id/OIP.naLHUk1nOTX6mmZl2q1QlwHaEK?rs=1&amp;pid=ImgDetMain</item>
+    </string-array>
+</resources>

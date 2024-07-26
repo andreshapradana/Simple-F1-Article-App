@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MySimpleApp" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/f1_primary</item>
+        <item name="colorPrimaryVariant">@color/f1_primary</item>
+        <item name="colorOnPrimary">@color/f1_text</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/f1_accent</item>
+        <item name="colorSecondaryVariant">@color/f1_accent</item>
+        <item name="colorOnSecondary">@color/f1_text</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

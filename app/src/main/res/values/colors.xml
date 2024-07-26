@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Formula 1 Theme Colors -->
+    <color name="f1_primary">#dc0000</color>
+    <color name="f1_secondary">#00a9e0</color>
+    <color name="f1_accent">#fee300</color>
+    <color name="f1_text">#000000</color>
+    <color name="f1_background">#ffffff</color>
+</resources>
